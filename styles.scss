@@ -187,6 +187,7 @@ body {
   .container {
     width: 90vw;
     height: 90vh;
+    height: min-content;
     margin: 0;
     padding: 5rem auto;
     position: relative;
